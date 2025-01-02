@@ -1,0 +1,23 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 1.5rem;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+}
+
+.brandName {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: 2rem;
+  padding-right: 20px;
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+}
